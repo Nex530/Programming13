@@ -112,9 +112,6 @@ namespace Programming13_1
             Console.WriteLine(dough0.getAllCalories());
             Dough dough1 = new Dough("Tip500", "chewy", 100);
             Dough dough2 = new Dough("white", "chewy", 240);
-
-
-
         }
     }
 }
